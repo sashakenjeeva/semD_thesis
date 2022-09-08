@@ -10,6 +10,6 @@ These are the Python scripts I created to conduct my work for my Master's Thesis
 2. The code_database directory is just the same, but applied to the English data:
 
 - context_files_ukwac.py --> cleaning ukwac and creating the context files (no model training because we used a pretrained model here)
-- create_stimuli_contexts_database.py --> same as before, making folders of stimuli with their contexts
-- random_100k_database.py --> same as before, selecting random 100k contexts for stimuli that have more than that
-- sem_d_database.py --> same as before, maybe will add concreteness scores later if needed
+- create_stimuli_contexts_database.py --> making folders of stimuli with their contexts
+- random_100k_database.py --> selecting random 100k contexts for stimuli that have more than that
+- sem_d_database.py --> calculating sem_d & cont_num + creating csv file
