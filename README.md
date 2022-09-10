@@ -13,3 +13,5 @@ These are the Python scripts I created to conduct my work for my Master's Thesis
 - create_stimuli_contexts_database.py --> making folders of stimuli with their contexts
 - random_100k_database.py --> selecting random 100k contexts for stimuli that have more than that
 - sem_d_database.py --> calculating sem_d & cont_num + creating csv file
+
+Additionally, the file database_semD makes available the calculated semD scores for the Word Prevalence database (Brysbaert et al., 2014).
